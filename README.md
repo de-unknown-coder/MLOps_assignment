@@ -60,12 +60,14 @@ python run.py
 ## How to run using Docker
 
 Build the image:
+```bash
 docker build -t mlops-task .
-
+```
 
 Run the container:
+```bash
 docker run --rm mlops-task
-
+```
 ---
 
 ## Example Output (metrics.json)
