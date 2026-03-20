@@ -1,0 +1,9 @@
+2026-03-19 23:38:37,843 - INFO - Job started
+2026-03-19 23:38:37,844 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-19 23:38:37,844 - INFO - Config validation passed
+2026-03-19 23:38:37,887 - INFO - Data loaded with shape: (10000, 7)
+2026-03-19 23:38:37,888 - INFO - Dataset validated
+2026-03-19 23:38:37,889 - INFO - Rolling mean computed
+2026-03-19 23:38:37,890 - INFO - Signal generated
+2026-03-19 23:38:37,893 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 47, 'seed': 42, 'status': 'success'}
+2026-03-19 23:38:37,893 - INFO - Job finished successfully
